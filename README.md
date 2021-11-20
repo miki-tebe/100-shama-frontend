@@ -16,7 +16,7 @@ For more information checkout the official [website](https://100shama.org/) and 
 
 ## Development
 
-Build using [Next.js](https://nextjs.org) for the frontend and [Strapi](https://strapi.io/) for the backend.
+Built using [Next.js](https://nextjs.org) for the frontend and [Strapi](https://strapi.io/) for the backend.
 
 ## Installing
 
