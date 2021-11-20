@@ -26,3 +26,7 @@ cd 100-shama-frontend
 yarn install or npm install 
 yarn run dev or npm run dev
 ```
+
+## Licence
+
+Released under the MIT license
