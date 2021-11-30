@@ -66,7 +66,7 @@ const Session = ({ session }) => {
               <strong>Provoker - {session.provoker.name || "Nothing"}</strong>
             </a>
             <div className="uk-accordion-content">
-              <p>{session.provoker.provokation || "Nothing"}</p>
+              <p>{session.provoker.provocation || "Nothing"}</p>
             </div>
           </li>
           <li>
